@@ -6,7 +6,7 @@
     password contraseña
     login
     exit
-    service password-encriyption
+    service password-encryption
 
 # Establecer mensaje de Entrada por Consola 
 
