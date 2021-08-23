@@ -4,11 +4,11 @@
 
 2.- Ingrese al modo de configuración de interfaz para la SVI.
 
-    S1(config)# interface vlan 99
+    S1(config)# interface vlan 1
 
 3.- Configure la dirección IPv4 de la interfaz de administración.
 
-    S1(config-if)# ip address 172.17.99.11 255.255.255.0
+    S1(config-if)# ip address 192.168.1.250 255.255.255.0
 
 4.- Habilite la interfaz de administración.
 
