@@ -24,5 +24,5 @@
 
 ## 7.- Guarda la Configuracion
 
-    # copy run start
+    # copy running-config startup-config
 
