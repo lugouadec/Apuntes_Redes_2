@@ -1,7 +1,7 @@
 # Proteger con Contraseña el Modo Priviligiado
 
-    # enable
+    > enable
     # configure terminal
-    # enable secret contraseña
+    (config)# enable secret contraseña
 
 
