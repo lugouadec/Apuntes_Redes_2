@@ -7,7 +7,7 @@
     Crypto key generate RSA 
     // Generar llave de 1024 bits
     username usuario secret cisco
-    username admin privileges 15 sercret cisco
+    username admin privilege 15 sercret cisco
     line vty 0 15 
     transport input ssh
     login local
