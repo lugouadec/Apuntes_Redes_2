@@ -1,0 +1,19 @@
+***************************************
+*                                     *
+*       ACCESO NO AUTORIZADO          *
+*                                     *
+***************************************
+*                                     *
+*    Se ha detectado un intento de    *
+*    acceso no autorizado a este      *
+*    sistema. ¡Qué valiente eres por  *
+*    intentarlo! Sin embargo, te      *
+*    recordamos que el acceso sin     *
+*    autorización es ilegal y puede   *
+*    resultar en acciones legales.    *
+*                                     *
+*    Por favor, detente ahora y       *
+*    solicita el acceso adecuado.     *
+*    ¡Gracias por tu cooperación!     *
+*                                     *
+***************************************
