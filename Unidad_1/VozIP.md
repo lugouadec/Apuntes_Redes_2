@@ -34,10 +34,15 @@ Router(config)#telephony-service
 Router(config-telephony)#max-dn 20
 ```
 Establece el número máximo de teléfonos IP (ephones) que se pueden registrar en el sistema a 10
+
     Router(config-telephony)#max-ephones 10
+    
 Define la dirección IP y el puerto utilizado por el servicio de telefonía.
+
     Router(config-telephony)#ip source-address 192.168.20.254 port 2000
+
 Asigna automáticamente números de directorio en el rango de 1 a 20 a los teléfonos IP que se registren.
+
     Router(config-telephony)#auto assign 1 to 20
 
 Asignacion de numeros 
