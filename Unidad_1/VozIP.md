@@ -1,4 +1,4 @@
-# Configuracion de vozIP Utilizando un router 2811
+# Configuracion de VozIP utilizando un router 2811
 
 Configuracion de las interfaces
 ```
